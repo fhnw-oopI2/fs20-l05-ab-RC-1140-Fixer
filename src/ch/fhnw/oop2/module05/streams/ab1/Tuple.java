@@ -26,3 +26,5 @@ public class Tuple<T> {
 		return "(" + t1 + ", " + t2 + ")";
 	}
 }
+
+//Test
